@@ -40,7 +40,9 @@
     color: #242746;
 }
 
-
+button{
+    margin-bottom: 20px;
+}
 .darkBg{
     background-color: #f1f3fd;
 }
