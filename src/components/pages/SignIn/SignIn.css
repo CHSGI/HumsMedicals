@@ -85,6 +85,7 @@
     }
     .sign-up-bt-gg{
         width: 220px;
+        margin-bottom: 10px;
     }
 }
 
@@ -96,4 +97,10 @@
     .sign-up-bt-gg{
         width: 280px;
     }
+    .right-div h3, p{
+     padding: 10px;
+     }
+    .right-div input{
+     margin: 10px;
+     }
 }
