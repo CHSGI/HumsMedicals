@@ -32,7 +32,7 @@ const Right = () => {
 const SignIn = () => {
     return (
         <div>
-            
+            <Navbar />
             <Template App={Right} />
         </div>
     )
