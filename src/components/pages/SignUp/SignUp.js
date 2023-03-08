@@ -9,7 +9,6 @@ import Navbar from '../../Navbar';
 const Right = () => {
     return (
         <>
-        <Navbar />
             <div className='right-div'>
             <h3>Create Account</h3>
             <p>Our mobile app would be coming out soon. Be among the first people to get notified.</p>
