@@ -31,6 +31,7 @@ const Right = () => {
 const SignUp = () => {
     return (
         <div>
+            <Navbar />
             <Template App={Right}/>
         </div>
     )
