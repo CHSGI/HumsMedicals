@@ -10,7 +10,6 @@ import './SignIn.css';
 const Right = () => {
     return (
         <>
-        <Navbar />
             <div className='right-div' >
                 <h3>Welcome back!</h3>
                 <p>Our mobile app would be coming out soon. Be among the first people to get notified.</p>
